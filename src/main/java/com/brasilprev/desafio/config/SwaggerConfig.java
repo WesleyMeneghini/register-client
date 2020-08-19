@@ -53,7 +53,7 @@ public class SwaggerConfig {
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder()
 	            .title("Brasilprev Desafio REST API")
-	            .description("REST API with the functionality of a registration of the c")
+	            .description("REST API with the functionality of a registration of the clients")
 	            .version("1.0.0")
 	            .license("Apache License Version 2.0")
 	            .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0")
